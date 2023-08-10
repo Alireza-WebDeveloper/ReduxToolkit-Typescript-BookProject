@@ -1,0 +1,184 @@
+{
+  "books": [
+    {
+      "img": "1.jpg",
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "published_year": 1925,
+      "genre": "Fiction",
+      "rating": 4.2
+    },
+    {
+      "img": "1.jpg",
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "published_year": 1960,
+      "genre": "Fiction",
+      "rating": 4.5
+    },
+    {
+      "img": "1.jpg",
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "published_year": 1949,
+      "genre": "Dystopian",
+      "rating": 4.0
+    },
+    {
+      "img": "1.jpg",
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "published_year": 1813,
+      "genre": "Classic",
+      "rating": 4.6
+    },
+    {
+      "img": "1.jpg",
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "published_year": 1997,
+      "genre": "Fantasy",
+      "rating": 4.7
+    },
+    {
+      "img": "1.jpg",
+      "id": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "published_year": 1937,
+      "genre": "Fantasy",
+      "rating": 4.3
+    },
+    {
+      "img": "1.jpg",
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "published_year": 1951,
+      "genre": "Fiction",
+      "rating": 3.9
+    },
+    {
+      "img": "1.jpg",
+      "id": 8,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "published_year": 1851,
+      "genre": "Adventure",
+      "rating": 3.8
+    },
+    {
+      "img": "1.jpg",
+      "id": 9,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "published_year": 1954,
+      "genre": "Fantasy",
+      "rating": 4.8
+    },
+    {
+      "img": "1.jpg",
+      "id": 10,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "published_year": 1932,
+      "genre": "Dystopian",
+      "rating": 4.1
+    },
+    {
+      "img": "1.jpg",
+      "id": 11,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "published_year": 1847,
+      "genre": "Gothic",
+      "rating": 4.4
+    },
+    {
+      "img": "1.jpg",
+      "id": 12,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "published_year": 1988,
+      "genre": "Fantasy",
+      "rating": 4.6
+    },
+    {
+      "img": "1.jpg",
+      "id": 13,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "published_year": 1890,
+      "genre": "Gothic",
+      "rating": 4.0
+    },
+    {
+      "img": "1.jpg",
+      "id": 14,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "published_year": 1818,
+      "genre": "Horror",
+      "rating": 4.2
+    },
+    {
+      "img": "1.jpg",
+      "id": 15,
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "published_year": 2008,
+      "genre": "Dystopian",
+      "rating": 4.1
+    },
+    {
+      "img": "1.jpg",
+      "id": 16,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "published_year": 2006,
+      "genre": "Post-apocalyptic",
+      "rating": 4.0
+    },
+    {
+      "img": "1.jpg",
+      "id": 17,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "published_year": 1847,
+      "genre": "Gothic",
+      "rating": 4.1
+    },
+    {
+      "img": "1.jpg",
+      "id": 18,
+      "title": "The Shining",
+      "author": "Stephen King",
+      "published_year": 1977,
+      "genre": "Horror",
+      "rating": 4.2
+    },
+    {
+      "img": "1.jpg",
+      "id": 19,
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "published_year": 1954,
+      "genre": "Fiction",
+      "rating": 3.7
+    },
+    {
+      "img": "1.jpg",
+      "id": 20,
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "published_year": 1950,
+      "genre": "Fantasy",
+      "rating": 4.2
+    }
+  ]
+}
